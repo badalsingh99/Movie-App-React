@@ -58,4 +58,4 @@ const serachQueryHandler = (event)=>{
   )
 }
 
-export default HeroBanner
+export default HeroBanner;
